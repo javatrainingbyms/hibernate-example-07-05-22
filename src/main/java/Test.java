@@ -3,5 +3,5 @@ import org.hibernate.*;
 
 public class Test {
 	JSONObject obj;
-	SessionFactory sessionFactory;
+	SessionFactory sessionFactory1;
 }
